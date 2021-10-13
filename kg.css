@@ -1,0 +1,12 @@
+#exemple1 {
+  background-color: red;
+  font-family: "Roboto", sans-serif;
+}
+#exemple2 {
+  background-color: rgb(250, 66, 34);
+  font-family: "Roboto", sans-serif;
+}
+p {
+  background-color: rgb(190, 167, 167);
+  font-family: "Roboto Slab", serif;
+}

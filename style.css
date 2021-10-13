@@ -1,0 +1,31 @@
+#example1 {
+border: salmon solid;
+  background-color: red;
+  padding: 10px 6px 2px 7px;
+}
+#example2 {background-color: orange;
+  padding: 6px 2px 10px 6px;
+  border: dashed gold;
+  padding: 60px auto;
+}
+#example3 {background-color: yellow;
+  padding: 0px 0px 3px 0px;
+  border: dashed 7px auto rgb(255, 255, 255);
+  outline: solid green 20px;
+}
+#example4 {background-color: green;
+}
+#example5 {background-color: blue;
+}
+#example6 {
+  background-color: purple;
+}
+#example7 {background-color: gray;
+}
+#example8 {
+  background-color: indigo;
+}
+#example9 {
+  background-color: lightcoral;
+}
+#example10 {background-color: rgb(123, 86, 184);}
